@@ -17,6 +17,7 @@ The following browsers currently support the use of U2F security keys:
 + Google Chrome, version 38 and later\.
 + Opera, version 40 and later\.
 + Mozilla Firefox, version 57 and later\.
++ Apple Safari on macOS Mojave and Catalina - enable `WebAuthentication` support in `Develop->Experimental Features` 
 **Note**  
 Most Firefox versions that currently support U2F do not enable support by default\. For instructions on enabling U2F support in Firefox, see [Troubleshooting U2F Security Keys](troubleshoot_mfa-u2f.md)\.
 
